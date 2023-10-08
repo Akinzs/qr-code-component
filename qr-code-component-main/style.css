@@ -1,0 +1,39 @@
+@import url('https://fonts.google.com/specimen/Outfit');
+body{
+    background-color:  hsl(160, 17%, 80%);
+    
+}
+.box{
+    background-color: white;
+    width: 250px;
+    margin:100px auto;
+    border-radius: 25px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px 10px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.05);
+    
+}
+.box img{
+    width: 100%;
+    border-radius: 15px;
+    
+    
+}
+.box h3{
+    font-family:'https://fonts.google.com/specimen/Outfit'; 
+    font-size: 16px;
+    font-weight: 700;
+}
+.box p{
+    font-family: outfit;
+    font-size: 13px;
+    font-weight: 400;
+    color: #9e9e9e;
+
+}
+.attribution{
+    text-align: center;
+}
+
+    
